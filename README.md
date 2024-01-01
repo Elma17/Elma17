@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working 𝚘𝚗 **Medical Image Processing 𝚊𝚗𝚍 Machine Learning.** 
+ 🔭 I’m currently working 𝚘𝚗 **Medical Image Processing, Machine Learning and Mobile Application.** 
  
  🌱 I’m currently learning **Mobile Application, Cybersecurity and 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 
@@ -23,6 +23,7 @@
 
  </div>
  
+ ### Connect with me:
 <div align="center"> 
   <a href="mailto:sksadiatasnim460@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -35,13 +36,16 @@
   </a>
 </div>
 
+
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=dart,python,javascript,c,java,mysql,php,phpmyadmin" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,python,javascript,python,c,java,mysql,php,phpmyadmin" />
+
 </div>
 
 <br/>
