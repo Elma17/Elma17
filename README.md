@@ -41,7 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=dart,python,javascript,c,c++,java,mysql,php,phpmyadmin" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,python,javascript,c,java,mysql,php,phpmyadmin" /><br>
 </div>
 
 <br/>
