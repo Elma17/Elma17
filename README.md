@@ -19,7 +19,7 @@
 
  💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. 
 
-⚡ Fun fact **ILOVEYOU is widely believed to be the most deadly worm virus ever developed**
+⚡ Fun fact: **ILOVEYOU** is widely believed to be the most deadly worm virus ever developed.
 
  </div>
  
