@@ -11,7 +11,7 @@
  
  🔭 I’m currently working 𝚘𝚗 **Medical Image Processing, Machine Learning and Mobile Application.** 
  
- 🌱 I’m currently learning **Mobile Application, Cybersecurity and Deep Learning.**
+ 🌱 I’m currently learning **Mobile Application, UI/UX and Deep Learning.**
 
  💬 How to reach me sksadiatasnim460@gmail.com
 
