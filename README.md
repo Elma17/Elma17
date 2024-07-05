@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Elma17.Elma17" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;+I'm+SK+Sadia+Tasnim+Elma.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;+I'm+SK Sadia Tasnim Elma.;" />
 </h1>
 
 
@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working 𝚘𝚗 **Medical Image Processing, Machine Learning and Mobile Application.** 
+ 🔭 I’m currently working 𝚘𝚗 **Medical Image Processing, Machine Learning and UI/UX.** 
  
  🌱 I’m currently learning **Mobile Application, UI/UX and Deep Learning.**
 
